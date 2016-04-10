@@ -1,0 +1,16 @@
+{
+  "name": "altalaunch",
+  "description": "angular-seed 1.4 template for easy Heroku deployment and less cruft",
+  "homepage": "https://github.com/Rookieokky/WebForm",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0",
+    "jquery": ">= 1.9.1",
+    "bootstrap": "~3.3.5"
+  }
+}
